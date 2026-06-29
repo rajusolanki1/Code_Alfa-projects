@@ -1,5 +1,3 @@
-# Task_Automation_with_Python_Scripts.py
-
 stock_prices = {
     "AAPL": 180,
     "TSLA": 250,
